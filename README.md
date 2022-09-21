@@ -8,8 +8,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-출처: https://kimasill.tistory.com/4 [널디 코드 일기:티스토리]
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seunghoon%20Choi&fontSize=90)
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 
 
